@@ -1,0 +1,5 @@
+python-telegram-bot==20.0
+Pillow==11.1.0
+imageio==2.21.2
+pyproject.toml==0.1.0
+python_dotenv==1.0.1
