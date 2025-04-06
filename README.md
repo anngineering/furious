@@ -2,7 +2,7 @@
 
 This repo allows users to upload a video through a Telegram bot, which the first 4 seconds gets cropped for payload optimization, then applies a frame overlay to the video in different styles (portrait and landscape). The bot provides two processed video options that users can download.
 
-This bot was used at the **[Furious 5s 2025](https://www.bacfurious5s.com/)** event hosted on 23 March 2025 at Palawan Beach. 
+This bot was used for engagement and marketing at the **[Furious 5s 2025](https://www.bacfurious5s.com/)** event hosted on 23 March 2025 at Palawan Beach. 
 
 
 ### Sample Processed Video
