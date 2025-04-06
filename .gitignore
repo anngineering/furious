@@ -3,6 +3,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache
 
 # C extensions
 *.so
@@ -19,4 +20,4 @@ ipython_config.py
 
 .env
 venv
-
+bot.log
