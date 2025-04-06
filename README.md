@@ -6,7 +6,7 @@ This repo allows users to upload a video through a Telegram bot, which the first
 ### Sample Processed Video
 To give you an idea of how the bot processes videos, here's a sample processed video with the overlay applied.
 
-- **[Watch the Sample Video (Portrait Style)](https://drive.google.com/file/d/1pXKAh25CCWLHwvtRopcTTzG1eUovlRu6/view?usp=drivesdk)**
+- **[Watch the Sample Video](https://drive.google.com/file/d/1pXKAh25CCWLHwvtRopcTTzG1eUovlRu6/view?usp=drivesdk)**
 
 
 ## Table of Contents
